@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:date>2022-09-17T17:39:47.282719699</dc:date><meta:editing-duration>PT11M22S</meta:editing-duration><meta:editing-cycles>5</meta:editing-cycles><meta:generator>LibreOffice/7.2.4.1$Linux_X86_64 LibreOffice_project/20$Build-1</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="19" meta:paragraph-count="816" meta:word-count="5883" meta:character-count="35328" meta:non-whitespace-character-count="26993"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">49604</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22144</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16302</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">33978</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">49602</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">22142</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">95</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">268258</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">268258</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Iosevka Term SS03" svg:font-family="&apos;Iosevka Term SS03&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="Open Sans" svg:font-family="&apos;Open Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Tempora LGC Uni" svg:font-family="&apos;Tempora LGC Uni&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="WenQuanYi Micro Hei" svg:font-family="&apos;WenQuanYi Micro Hei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="ui-monospace" svg:font-family="ui-monospace, SFMono-Regular, &apos;SF Mono&apos;, Menlo, Consolas, &apos;Liberation Mono&apos;, monospace"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Tempora LGC Uni" fo:font-size="12pt" fo:language="ru" fo:country="RU" style:letter-kerning="true" style:font-name-asian="WenQuanYi Micro Hei" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Tempora LGC Uni" fo:font-size="12pt" fo:language="ru" fo:country="RU" style:letter-kerning="true" style:font-name-asian="WenQuanYi Micro Hei" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Open Sans" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="WenQuanYi Micro Hei" style:font-family-asian="&apos;WenQuanYi Micro Hei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:language="zxx" fo:country="none" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:orphans="0" fo:widows="0" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Iosevka Term SS03" fo:font-family="&apos;Iosevka Term SS03&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Liberation Mono" style:font-family-asian="&apos;Liberation Mono&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Iosevka Term SS03" style:font-family-complex="&apos;Iosevka Term SS03&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="000417e2" officeooo:paragraph-rsid="000417e2"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" fo:letter-spacing="normal"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false" fo:orphans="2" fo:widows="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" loext:opacity="100%" fo:letter-spacing="normal"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000417e2" officeooo:paragraph-rsid="000417e2"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
+   <style:text-properties fo:font-size="15pt" officeooo:rsid="000417e2" officeooo:paragraph-rsid="000417e2" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="15pt" officeooo:rsid="000417e2" officeooo:paragraph-rsid="000417e2" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="16pt" officeooo:rsid="000417e2" officeooo:paragraph-rsid="000417e2" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="16pt" officeooo:rsid="000417e2" officeooo:paragraph-rsid="000417e2" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P10">Лабораторная работа №1</text:p>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P11">ИВТ-93</text:p>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P11">Мусиев Максим Алибекович</text:p>
+   <text:p text:style-name="P7">Ход работы</text:p>
+   <text:p text:style-name="P8">Название программы: <text:span text:style-name="T2">FileManagerMV</text:span></text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8">Язык программирования: Python</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8">Назначение: Разработка файлового менеджера для операционной системы Linux для курсовой работы по предмету Операционные Системы и Оболочки</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8">Код:</text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P2">#!/usr/bin/python3</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P1">############################################</text:p>
+   <text:p text:style-name="P1"># Musiev kursovoy project 0.1</text:p>
+   <text:p text:style-name="P1">############################################</text:p>
+   <text:p text:style-name="P1">import asyncio</text:p>
+   <text:p text:style-name="P1">import ctypes</text:p>
+   <text:p text:style-name="P1">import multiprocessing.process</text:p>
+   <text:p text:style-name="P1">import sys</text:p>
+   <text:p text:style-name="P1">import os</text:p>
+   <text:p text:style-name="P1">import errno</text:p>
+   <text:p text:style-name="P1">import subprocess</text:p>
+   <text:p text:style-name="P1">import threading</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P1">from typing import Iterable</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P1">import datetime</text:p>
+   <text:p text:style-name="P1">import pickle</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P1">import PyQt5.sip</text:p>
+   <text:p text:style-name="P1">import posix_ipc</text:p>
+   <text:p text:style-name="P1">import psutil</text:p>
+   <text:p text:style-name="P1">from PyQt5.QtWidgets import *</text:p>
+   <text:p text:style-name="P1">from PyQt5.QtCore import *</text:p>
+   <text:p text:style-name="P1">from PyQt5.QtGui import QIcon</text:p>
+   <text:p text:style-name="P1">from PyQt5.QtGui import QKeySequence, QCursor</text:p>
+   <text:p text:style-name="P1">import shutil</text:p>
+   <text:p text:style-name="P1">import subprocess</text:p>
+   <text:p text:style-name="P1">import tkinter</text:p>
+   <text:p text:style-name="P1">import getpass</text:p>
+   <text:p text:style-name="P1">from multiprocessing import shared_memory as shmemory</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P1">class MainWindow(QMainWindow):</text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def __init__(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">super(MainWindow, self).__init__()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(os.getpid())</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.setStyleSheet(mystylesheet(self))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.setWindowTitle(&quot;File manager&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.setWindowIcon(QIcon.fromTheme(&quot;system- file-manager&quot;))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.process = QProcess()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="8"/><text:span text:style-name="T1">self.processes: QWidget</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.username_sem = posix_ipc.Semaphore(&quot;user_name_sem&quot;, posix_ipc.O_CREAT, 0o600, 1)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.cpudigits_sem = posix_ipc.Semaphore(&quot;cpu_digits_sem&quot;, posix_ipc.O_CREAT, 0o600, 1)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.username_updating()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.settings = QSettings(&quot;QFileManager&quot;, &quot;QFileManager&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.clip = QApplication.clipboard()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.isInEditMode = False</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview = QTreeView()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview = QTreeView()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.cut = False</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.hiddenEnabled = False</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.folder_copied = &quot;&quot;</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.splitter = QSplitter()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.splitter.setOrientation(Qt.Horizontal)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.splitter.addWidget(self.treeview)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.splitter.addWidget(self.listview)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">hlay = QHBoxLayout()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">hlay.addWidget(self.splitter)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">wid = QWidget()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">wid.setLayout(hlay)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.createStatusBar()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.setCentralWidget(wid)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.setGeometry(0, 26, 900, 500)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">path = QDir.currentPath()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">path = self.parseRoot(path)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.root = path</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.media = &apos;/media&apos;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.copyPath = &quot;&quot;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.copyList = []</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.copyListNew = &quot;&quot;</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.createActions()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar = self.addToolBar(&quot;Tools&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.setContextMenuPolicy(Qt.PreventContextMenu)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1"># self.tBar.setMovable(False)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.setIconSize(QSize(16, 16))</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addSeparator()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addAction(self.btnHome)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addAction(self.btnDocuments)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addAction(self.btnDownloads)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addAction(self.btnMusic)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addAction(self.btnPictures)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addAction(self.btnVideo)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addAction(self.btnRemovables)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addSeparator()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addAction(self.btnUp)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addSeparator()</text:span></text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addAction(self.btnProcesses)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addAction(self.btnQuests)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addSeparator()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1"># utilities section _____________________||</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addAction(self.btnTerminal)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addAction(self.btnCalculator)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addAction(self.btnSysMonitor)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1"># _______________________________________||</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addSeparator()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.tBar.addAction(self.helpAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.dirModel = QFileSystemModel()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.dirModel.setReadOnly(False)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.dirModel.setFilter(QDir.NoDotAndDotDot | QDir.AllDirs | QDir.Drives)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.dirModel.setRootPath(QDir.rootPath())</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.fileModel = QFileSystemModel()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.fileModel.setReadOnly(False)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.fileModel.setFilter(QDir.NoDotAndDotDot | QDir.AllDirs | QDir.Files)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1"># self.fileModel.setResolveSymlinks(True)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setModel(self.dirModel)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.hideColumn(1)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.hideColumn(2)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.hideColumn(3)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.setModel(self.fileModel)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setRootIsDecorated(True)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.header().resizeSection(0, 320)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.header().resizeSection(1, 80)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.header().resizeSection(2, 80)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.setSortingEnabled(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setSortingEnabled(True)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setRootIndex(self.dirModel.index(path))</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.selectionModel().selectionChanged.connect(self.on_selectionChanged)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.doubleClicked.connect(self.list_doubleClicked)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setTreePosition(0)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setUniformRowHeights(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setExpandsOnDoubleClick(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setEditTriggers(QAbstractItemView.NoEditTriggers)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setIndentation(12)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setDragDropMode(QAbstractItemView.DragDrop)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setDragEnabled(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setAcceptDrops(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setDropIndicatorShown(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.sortByColumn(0, Qt.AscendingOrder)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.splitter.setSizes([20, 160])</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.setSelectionMode(QAbstractItemView.ExtendedSelection)</text:span></text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="8"/><text:span text:style-name="T1">self.listview.setDragDropMode(QAbstractItemView.DragDrop)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.setDragEnabled(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.setAcceptDrops(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.setDropIndicatorShown(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.setEditTriggers(QAbstractItemView.NoEditTriggers)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.setIndentation(10)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.sortByColumn(0, Qt.AscendingOrder)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(&quot;Welcome to FileManager&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.readSettings()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.enableHidden()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.getRowCount()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setCurrentIndex(self.dirModel.index(self.root))</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1"># очищаем лог-файлы, параметром должен быть массив</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.clear_files_data([&apos;./log/log_visited.txt&apos;])</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.shmem_arr = &apos;.memcache.py&apos;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.processesPID = []</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.processes_by_filemanager = list()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.share_memory()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def saveProcessesDataToList(self, path: str, pid: int, name: str):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">proc = psutil.Process(pid)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">_datetime = datetime.datetime.fromtimestamp(proc.create_time()).strftime(&quot;%Y-%m-%d %H:%M:%S&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">_line = (f&apos;{pid}&apos;, f&apos;{_datetime}&apos;, f&apos;{name}&apos;, f&apos;{path}&apos;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(_line)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.processesPID.append(_line)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.share_memory()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def share_memory(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">with open(self.shmem_arr, &apos;wb&apos;) as output:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">pickle.dump(self.processesPID, output, pickle.HIGHEST_PROTOCOL)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def getRowCount(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">count = 0</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">index = self.treeview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">path = QDir(self.dirModel.fileInfo(index).absoluteFilePath())</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">count = len(path.entryList(QDir.Files))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.statusBar().showMessage(&quot;%s %s&quot; % (count, &quot;Files&quot;), 0)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">return count</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def clear_files_data(self, paths: Iterable):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">for path in paths:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">with open(path, &apos;w&apos;) as f:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">pass</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def closeEvent(self, e):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(&quot;writing settings ...\nGoodbye ...&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">try:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.processes.close()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">except:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">pass</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.writeSettings()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def readSettings(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(&quot;reading settings ...&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if self.settings.contains(&quot;pos&quot;):</text:span></text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="12"/><text:span text:style-name="T1">pos = self.settings.value(&quot;pos&quot;, QPoint(200, 200))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.move(pos)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.move(0, 26)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if self.settings.contains(&quot;size&quot;):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">size = self.settings.value(&quot;size&quot;, QSize(800, 600))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.resize(size)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.resize(800, 600)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if self.settings.contains(&quot;hiddenEnabled&quot;):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">if self.settings.value(&quot;hiddenEnabled&quot;) == &quot;false&quot;:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">self.hiddenEnabled = True</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">self.hiddenEnabled = False</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def writeSettings(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.settings.setValue(&quot;pos&quot;, self.pos())</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.settings.setValue(&quot;size&quot;, self.size())</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.settings.setValue(&quot;hiddenEnabled&quot;, self.hiddenEnabled, )</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def enableHidden(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if self.hiddenEnabled == False:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.fileModel.setFilter(QDir.NoDotAndDotDot | QDir.Hidden | QDir.AllDirs | QDir.Files)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.dirModel.setFilter(QDir.NoDotAndDotDot | QDir.Hidden | QDir.AllDirs)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.hiddenEnabled = True</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.hiddenAction.setChecked(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&quot;set hidden files to true&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.fileModel.setFilter(QDir.NoDotAndDotDot | QDir.AllDirs | QDir.Files)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.dirModel.setFilter(QDir.NoDotAndDotDot | QDir.AllDirs)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.hiddenEnabled = False</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.hiddenAction.setChecked(False)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&quot;set hidden files to false&quot;)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def parseRoot(self, path):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">path = f&apos;{path}&apos;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">path = path[:path.rfind(&apos;/&apos;)]</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">return path</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def username_updating(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">def updating():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">while True:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">self.username_send()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">QThread.sleep(1)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">t = threading.Thread(target=updating)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">t.daemon = True</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">t.start()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def username_send(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.username = getpass.getuser()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.username_sem.acquire()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">try:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">shmemory.ShareableList([self.username], name=&apos;user_name&apos;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="8"/><text:span text:style-name="T1">except:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">shmemory.ShareableList(&apos;user_name&apos;).shm.unlink()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">pass</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.username_sem.release()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def cpu_load_percents_send(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.cpudigits = psutil.cpu_percent(0, True)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.cpudigits_sem.acquire()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">shmemory.ShareableList(self.cpudigits, name=&apos;cpu_digits&apos;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.cpudigits_sem.release()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def aboutApp(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">def openAboutForm():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">from inter import VideoEdu</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.helpAction.setEnabled(False)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">root = tkinter.Tk()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">VideoEdu(root, self)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">root.mainloop()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.helpAction.setEnabled(True)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">m = multiprocessing.Process(target=openAboutForm)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">m.daemon = True</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">m.start()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(multiprocessing.process.current_process(), &quot; - current process&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(len(multiprocessing.process.active_children()), &quot; -&gt; children count&quot;)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">for child in multiprocessing.process.active_children():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(child.name, child.pid)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def createActions(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.btnUp = QAction(QIcon.fromTheme(&quot;go-up&quot;), &quot;go up&quot;, triggered=self.goUp)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.btnHome = QAction(QIcon.fromTheme(&quot;go-home&quot;), &quot;home folder&quot;, triggered=self.goHome)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.btnMusic = QAction(QIcon.fromTheme(&quot;folder-music&quot;), &quot;music folder&quot;, triggered=self.goMusic)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.btnPictures = QAction(QIcon.fromTheme(&quot;folder-pictures&quot;), &quot;pictures folder&quot;, triggered=self.goPictures)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.btnDocuments = QAction(QIcon.fromTheme(&quot;folder-documents&quot;), &quot;documents folder&quot;, triggered=self.goDocuments)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.btnDownloads = QAction(QIcon.fromTheme(&quot;folder-downloads&quot;), &quot;downloads folder&quot;, triggered=self.goDownloads)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.btnVideo = QAction(QIcon.fromTheme(&quot;folder-videos&quot;), &quot;video folder&quot;, triggered=self.goVideo)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.btnProcesses = QAction(QIcon.fromTheme(&quot;system-search&quot;), &quot;processes&quot;, triggered=self.getProcessList)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.btnRemovables = QAction(QIcon.fromTheme(&quot;drive-removable-media&quot;),</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="37"/><text:span text:style-name="T1">&quot;removables&quot;, triggered=self.toggleRemovables)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.btnQuests = QAction(QIcon.fromTheme(&quot;applications-science&quot;), &quot;quests&quot;, triggered=self.showQuests)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.btnTerminal = QAction(QIcon.fromTheme(&quot;utilities-terminal&quot;), &quot;terminal&quot;, triggered=self.callTerminal)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.btnCalculator = QAction(QIcon.fromTheme(&quot;accessories-calculator&quot;),</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="37"/><text:span text:style-name="T1">&quot;calculator&quot;, triggered=self.callCalculator)</text:span></text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="8"/><text:span text:style-name="T1">self.btnSysMonitor = QAction(QIcon.fromTheme(&quot;utilities-system-monitor&quot;),</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="37"/><text:span text:style-name="T1">&quot;System monitor&quot;, triggered=self.callSysMonitor)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.openAction = QAction(QIcon.fromTheme(&quot;system-run&quot;), &quot;open File&quot;, triggered=self.openFile)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.openAction.setShortcut(QKeySequence(Qt.Key_Return))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.openAction.setShortcutVisibleInContextMenu(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.addAction(self.openAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.openActionText = QAction(QIcon.fromTheme(&quot;system-run&quot;), &quot;open File with built-in Texteditor&quot;,</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="38"/><text:span text:style-name="T1">triggered=self.openFileText)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.openActionText.setShortcut(QKeySequence(Qt.Key_F6))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.openActionText.setShortcutVisibleInContextMenu(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.addAction(self.openActionText)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.renameAction = QAction(QIcon.fromTheme(&quot;accessories-text-editor&quot;), &quot;rename File&quot;,</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="36"/><text:span text:style-name="T1">triggered=self.renameFile)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.renameAction.setShortcut(QKeySequence(Qt.Key_F2))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.renameAction.setShortcutVisibleInContextMenu(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.addAction(self.renameAction)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.addAction(self.renameAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.renameFolderAction = QAction(QIcon.fromTheme(&quot;accessories-text-editor&quot;), &quot;rename Folder&quot;,</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="42"/><text:span text:style-name="T1">triggered=self.renameFolder)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.addAction(self.renameFolderAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.copyAction = QAction(QIcon.fromTheme(&quot;edit-copy&quot;), &quot;copy File(s)&quot;, triggered=self.copyFile)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.copyAction.setShortcut(QKeySequence(&quot;Ctrl+c&quot;))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.copyAction.setShortcutVisibleInContextMenu(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.addAction(self.copyAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.copyFolderAction = QAction(QIcon.fromTheme(&quot;edit-copy&quot;), &quot;copy Folder&quot;, triggered=self.copyFolder)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.addAction(self.copyFolderAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.pasteFolderAction = QAction(QIcon.fromTheme(&quot;edit-paste&quot;), &quot;paste Folder&quot;, triggered=self.pasteFolder)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.addAction(self.pasteFolderAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.cutAction = QAction(QIcon.fromTheme(&quot;edit-cut&quot;), &quot;cut File(s)&quot;, triggered=self.cutFile)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.cutAction.setShortcut(QKeySequence(&quot;Ctrl+x&quot;))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.cutAction.setShortcutVisibleInContextMenu(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.addAction(self.cutAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.pasteAction = QAction(QIcon.fromTheme(&quot;edit-paste&quot;), &quot;paste File(s)&quot;, triggered=self.pasteFile)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.pasteAction.setShortcut(QKeySequence(&quot;Ctrl+v&quot;))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.pasteAction.setShortcutVisibleInContextMenu(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.addAction(self.pasteAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.delAction = QAction(QIcon.fromTheme(&quot;edit-delete&quot;), &quot;delete File(s)&quot;, triggered=self.deleteFile)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.delAction.setShortcut(QKeySequence(&quot;Shift+Del&quot;))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.delAction.setShortcutVisibleInContextMenu(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="8"/><text:span text:style-name="T1">self.listview.addAction(self.delAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.delFolderAction = QAction(QIcon.fromTheme(&quot;edit-delete&quot;), &quot;Delete Folder&quot;, triggered=self.deleteFolder)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.delFolderAction.setShortcutVisibleInContextMenu(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.addAction(self.delFolderAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">#</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.moveToTrashAction = QAction(QIcon.fromTheme(&quot;user-trash&quot;), &quot;move to Trashbin&quot;, triggered=self.moveToTrash)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.moveToTrashAction.setShortcut(QKeySequence(&quot;Del&quot;))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.moveToTrashAction.setShortcutVisibleInContextMenu(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.addAction(self.moveToTrashAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.refreshAction = QAction(QIcon.fromTheme(&quot;view-refresh&quot;), &quot;refresh View&quot;, triggered=self.refreshList,</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="37"/><text:span text:style-name="T1">shortcut=&quot;F5&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.refreshAction.setShortcutVisibleInContextMenu(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.addAction(self.refreshAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.hiddenAction = QAction(&quot;show hidden Files&quot;, triggered=self.enableHidden)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.hiddenAction.setShortcut(QKeySequence(&quot;Ctrl+h&quot;))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.hiddenAction.setShortcutVisibleInContextMenu(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.hiddenAction.setCheckable(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.addAction(self.hiddenAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.helpAction = QAction(QIcon.fromTheme(&quot;help&quot;), &quot;About&quot;, triggered=self.aboutApp)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.helpAction.setShortcut(QKeySequence(Qt.Key_F1))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.helpAction.setShortcutVisibleInContextMenu(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.addAction(self.helpAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.createFolderAction = QAction(QIcon.fromTheme(&quot;folder-new&quot;), &quot;create new Folder&quot;,</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="42"/><text:span text:style-name="T1">triggered=self.createNewFolder)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.createFolderAction.setShortcut(QKeySequence(&quot;Shift+Ctrl+n&quot;))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.createFolderAction.setShortcutVisibleInContextMenu(True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.addAction(self.createFolderAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def refreshList(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(&quot;refreshing view&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">index = self.listview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">_path = self.fileModel.fileInfo(index).path()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setCurrentIndex(self.fileModel.index(_path))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setFocus()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def on_selectionChanged(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.selectionModel().clearSelection()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">index = self.treeview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">path = self.dirModel.fileInfo(index).absoluteFilePath()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.listview.setRootIndex(self.fileModel.setRootPath(path))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.currentPath = path</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.setWindowTitle(path)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.getRowCount()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def openFile(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">def open():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">if self.listview.hasFocus():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">index = self.listview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">path = self.fileModel.fileInfo(index).absoluteFilePath()</text:span></text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="16"/><text:span text:style-name="T1">proc = subprocess.Popen([&quot;xdg-open&quot;, path], shell=False)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">self.saveProcessesDataToList(path, proc.pid, &quot;shell xdg&quot;)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">m = multiprocessing.Process(target=open)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">m.daemon = True</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1"># m.start()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">open()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(m.pid)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1"># @property</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def open_file2(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1"># все работает, но имя всегда будет /usr/bin/xdg-open</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if self.listview.hasFocus():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">index = self.listview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">path = self.fileModel.fileInfo(index).absoluteFilePath()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">proc = subprocess.Popen([&quot;xdg-open&quot;, path], shell=False)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">_pid = proc.pid</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(_pid)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">def get_pname(id):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">p = subprocess.Popen([&quot;ps -o cmd= {}&quot;.format(id)], stdout=subprocess.PIPE, shell=True)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">return str(p.communicate()[0])</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">name = get_pname(_pid)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(name)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def openFileText(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if self.listview.selectionModel().hasSelection():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">index = self.listview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">path = self.fileModel.fileInfo(index).absoluteFilePath()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">subprocess.Popen([&quot;code&quot;, path], shell=False)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def list_doubleClicked(self):</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">index = self.listview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">path = self.fileModel.fileInfo(index).absoluteFilePath()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if not self.fileModel.fileInfo(index).isDir():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.openFile()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.treeview.setCurrentIndex(self.dirModel.index(path))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.treeview.setFocus()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.setWindowTitle(path)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">with open(&apos;./log/log_visited.txt&apos;, &quot;a&quot;) as f:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">f.write(path+&apos;\n&apos;)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def goUp(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">index = self.treeview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">path = self.dirModel.fileInfo(index).path()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if path.find(self.root) &gt;= 0:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.treeview.setCurrentIndex(self.dirModel.index(path))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">with open(&apos;./log/log_visited.txt&apos;, &quot;a&quot;) as f:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">f.write(path + &apos;\n&apos;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.treeview.setCurrentIndex(self.dirModel.index(self.root))</text:span></text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="12"/><text:span text:style-name="T1">with open(&apos;./log/log_visited.txt&apos;, &quot;a&quot;) as f:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">f.write(self.root + &apos;\n&apos;)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def goHome(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">docs = self.root + &quot;/home&quot;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1"># docs = QStandardPaths.standardLocations(QStandardPaths.HomeLocation)[0]</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setCurrentIndex(self.dirModel.index(docs))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setFocus()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def goMusic(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">docs = self.root + &quot;/home/music&quot;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1"># docs = QStandardPaths.standardLocations(QStandardPaths.MusicLocation)[0]</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setCurrentIndex(self.dirModel.index(docs))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setFocus()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def goPictures(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">docs = self.root + &quot;/home/pictures&quot;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1"># docs = QStandardPaths.standardLocations(QStandardPaths.PicturesLocation)[0]</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setCurrentIndex(self.dirModel.index(docs))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setFocus()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def goVideo(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">docs = self.root + &quot;/home/videos&quot;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1"># docs = QStandardPaths.standardLocations(QStandardPaths.MoviesLocation)[0]</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setCurrentIndex(self.dirModel.index(docs))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setFocus()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def goDocuments(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">docs = self.root + &quot;/home/documents&quot;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1"># docs = QStandardPaths.standardLocations(QStandardPaths.DocumentsLocation)[0]</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setCurrentIndex(self.dirModel.index(docs))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setFocus()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def goDownloads(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">docs = self.root + &quot;/home/downloads&quot;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1"># docs = QStandardPaths.standardLocations(QStandardPaths.DownloadLocation)[0]</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setCurrentIndex(self.dirModel.index(docs))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setFocus()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def getProcessList(self):</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">def open():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">import form</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.processes = QWidget()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">ui = form.ProcWindow(self.processes, self.shmem_arr)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.processes.show()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">my_thread = MyThread(open)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">my_thread.start()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def toggleRemovables(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.root, self.media = self.media, self.root</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setRootIndex(self.dirModel.index(self.root))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.treeview.setCurrentIndex(self.dirModel.index(self.root))</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def showQuests(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">try:</text:span></text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="12"/><text:span text:style-name="T1">proc = subprocess.Popen([&quot;gnome-disks&quot;], shell=False)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.saveProcessesDataToList(&quot;&quot;, proc.pid, &quot;gnome-disks&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">except:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&apos;disk-utility not opened&apos;)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def callTerminal(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">try:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">proc = subprocess.Popen([&quot;gnome-terminal&quot;], shell=False)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.saveProcessesDataToList(&quot;&quot;, proc.pid, &quot;gnome-terminal&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">except:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">try:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">subprocess.run([&apos;console&apos;])</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">except:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">print(&apos;terminal not opened&apos;)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def callCalculator(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">try:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">proc = subprocess.Popen([&quot;gnome-calculator&quot;], shell=False)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.saveProcessesDataToList(&quot;&quot;, proc.pid, &quot;gnome-calculator&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">except:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&quot;calculator didn&apos;t opened&quot;)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def callSysMonitor(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">try:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">proc = subprocess.Popen([&quot;gnome-system-monitor&quot;], shell=False)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.saveProcessesDataToList(&quot;&quot;, proc.pid, &quot;gnome-system-monitor&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">except:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&quot;System monitor didn&apos;t opened&quot;)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def infobox(self, message):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">title = &quot;QFilemager&quot;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">QMessageBox(QMessageBox.Information, title, message, QMessageBox.NoButton, self,</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">Qt.Dialog | Qt.NoDropShadowWindowHint).show()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def systemPathCheck(self, path):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if path.find(self.root + &quot;/system&quot;) &gt;= 0:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">return True</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">return False</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def protectSysPath(self, path):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if self.systemPathCheck(path):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.infobox(&quot;System folder protected from editing&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">return False</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">return True</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def contextMenuEvent(self, event):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">index = self.listview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">path = self.fileModel.fileInfo(index).absoluteFilePath()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.menu = QMenu(self.listview)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if self.listview.hasFocus():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.menu.addAction(self.createFolderAction)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.menu.addAction(self.openAction)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.menu.addAction(self.openActionText)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.menu.addAction(self.renameAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="12"/><text:span text:style-name="T1">self.menu.addSeparator()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.menu.addAction(self.copyAction)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.menu.addAction(self.cutAction)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.menu.addAction(self.pasteAction)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.menu.addAction(self.moveToTrashAction)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.menu.addAction(self.delAction)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.menu.addSeparator()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.menu.addAction(self.helpAction)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.menu.popup(QCursor.pos())</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">index = self.treeview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">path = self.dirModel.fileInfo(index).absoluteFilePath()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&quot;current path is:&quot;, path)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.menu = QMenu(self.treeview)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">if os.path.isdir(path):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">self.menu.addAction(self.createFolderAction)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">self.menu.addAction(self.renameFolderAction)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">self.menu.addAction(self.copyFolderAction)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">self.menu.addAction(self.pasteFolderAction)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">self.menu.addAction(self.delFolderAction)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.menu.popup(QCursor.pos())</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def createNewFolder(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">index = self.treeview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">path = self.dirModel.fileInfo(index).absoluteFilePath()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if not self.protectSysPath(path):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">return</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">dlg = QInputDialog(self)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">foldername, ok = dlg.getText(self, &apos;Folder Name&apos;, &quot;Folder Name:&quot;, QLineEdit.Normal, &quot;&quot;, Qt.Dialog)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if ok:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">success = QDir(path).mkdir(foldername)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def renameFile(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if self.listview.hasFocus():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">if self.listview.selectionModel().hasSelection():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">index = self.listview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">path = self.fileModel.fileInfo(index).absoluteFilePath()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">if not self.protectSysPath(path):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">return</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">basepath = self.fileModel.fileInfo(index).path()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">print(basepath)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">oldName = self.fileModel.fileInfo(index).fileName()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">dlg = QInputDialog()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">newName, ok = dlg.getText(self, &apos;new Name:&apos;, path, QLineEdit.Normal, oldName, Qt.Dialog)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">if ok:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">newpath = basepath + &quot;/&quot; + newName</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">QFile.rename(path, newpath)</text:span></text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="8"/><text:span text:style-name="T1">elif self.treeview.hasFocus():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.renameFolder()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def renameFolder(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">index = self.treeview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">path = self.dirModel.fileInfo(index).absoluteFilePath()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if not self.protectSysPath(path):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">return</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">basepath = self.dirModel.fileInfo(index).path()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(&quot;basepath:&quot;, basepath)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">oldName = self.dirModel.fileInfo(index).fileName()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">dlg = QInputDialog()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">newName, ok = dlg.getText(self, &apos;new Name:&apos;, path, QLineEdit.Normal, oldName, Qt.Dialog)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if ok:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">newpath = basepath + &quot;/&quot; + newName</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(newpath)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">nd = QDir(path)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">check = nd.rename(path, newpath)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def copyFile(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.copyList = []</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">selected = self.listview.selectionModel().selectedRows()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">count = len(selected)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">for index in selected:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">path = self.currentPath + &quot;/&quot; + self.fileModel.data(index, self.fileModel.FileNameRole)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(path, &quot;copied to clipboard&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.copyList.append(path)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.clip.setText(&apos;\n&apos;.join(self.copyList))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(&quot;%s\n%s&quot; % (&quot;filepath(s) copied:&quot;, &apos;\n&apos;.join(self.copyList)))</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def copyFolder(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">index = self.treeview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">folderpath = self.dirModel.fileInfo(index).absoluteFilePath()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(&quot;%s\n%s&quot; % (&quot;folderpath copied:&quot;, folderpath))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.folder_copied = folderpath</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.copyList = []</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def pasteFolder(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">index = self.treeview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">target = self.folder_copied</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">destination = self.dirModel.fileInfo(index).absoluteFilePath() + &quot;/&quot; + QFileInfo(self.folder_copied).fileName()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(&quot;%s %s %s&quot; % (target, &quot;will be pasted to&quot;, destination))</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if self.systemPathCheck(destination):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.infobox(&quot;System folder protected from editing&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">return</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">try:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">shutil.copytree(target, destination)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">except OSError as e:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">if e.errno == errno.ENOTDIR:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">shutil.copy(target, destination)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="16"/><text:span text:style-name="T1">self.infobox(&apos;Error&apos;, &apos;Directory not copied. Error: %s&apos; % e)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def pasteFile(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if len(self.copyList) &gt; 0:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">index = self.treeview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">file_index = self.listview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">for target in self.copyList:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">print(target)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">destination = self.dirModel.fileInfo(index).absoluteFilePath() + &quot;/&quot; + QFileInfo(target).fileName()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">print(&quot;%s %s&quot; % (&quot;pasted File to&quot;, destination))</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">if self.systemPathCheck(destination):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">self.infobox(&quot;System folder protected from editing&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">return</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">QFile.copy(target, destination)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">if self.cut == True:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">QFile.remove(target)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">self.cut == False</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">index = self.treeview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">target = self.folder_copied</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">destination = self.dirModel.fileInfo(index).absoluteFilePath() + &quot;/&quot; + QFileInfo(</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">self.folder_copied).fileName()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">if self.systemPathCheck(destination):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">self.infobox(&quot;System folder protected from editing&quot;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">return</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">try:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">shutil.copytree(target, destination)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">except OSError as e:</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1"># If the error was caused because the source wasn&apos;t a directory</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">if e.errno == errno.ENOTDIR:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">shutil.copy(target, destination)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">print(&apos;Directory not copied. Error: %s&apos; % e)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def cutFile(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.cut = True</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.copyFile()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def deleteFolder(self):</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">index = self.treeview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">delFolder = self.dirModel.fileInfo(index).absoluteFilePath()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if not self.protectSysPath(delFolder):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">return</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">msg = QMessageBox.question(self, &quot;Info&quot;, &quot;Caution!\nReally delete this Folder?\n&quot; + delFolder,</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="35"/><text:span text:style-name="T1">QMessageBox.Yes | QMessageBox.No, QMessageBox.Yes)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if msg == QMessageBox.Yes:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&apos;Deletion confirmed.&apos;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="12"/><text:span text:style-name="T1">self.statusBar().showMessage(&quot;%s %s&quot; % (&quot;folder deleted&quot;, delFolder), 0)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.fileModel.remove(index)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&quot;%s %s&quot; % (&quot;folder deleted&quot;, delFolder))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&apos;No clicked.&apos;)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def moveToTrash(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">def pasteToTrash(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">if len(self.copyList) &gt; 0:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">index = self.root + &quot;/trashbin&quot;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">for target in self.copyList:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">print(target)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">destination = index + &quot;/&quot; + QFileInfo(target).fileName()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">print(&quot;%s %s&quot; % (&quot;pasted File to&quot;, destination))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">QFile.copy(target, destination)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">try:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="24"/><text:span text:style-name="T1">shutil.copytree(target, destination)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="20"/><text:span text:style-name="T1">except OSError as e:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="24"/><text:span text:style-name="T1">pass</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">print(&apos;No files have been selected&apos;)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.copyFile()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if not self.protectSysPath(self.copyList[len(self.copyList) - 1]):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">return</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">msg = QMessageBox.question(self, &quot;Info&quot;,</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="35"/><text:span text:style-name="T1">&quot;Caution!\nReally move this Files to Trashbin?\n&quot; + &apos;\n&apos;.join(self.copyList),</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="35"/><text:span text:style-name="T1">QMessageBox.Yes | QMessageBox.No, QMessageBox.Yes)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if msg == QMessageBox.Yes:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&apos;Removing confirmed.&apos;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">pasteToTrash(self)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">index = self.listview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.copyPath = self.fileModel.fileInfo(index).absoluteFilePath()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">if not self.protectSysPath(self.copyPath):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">return</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&quot;%s %s&quot; % (&quot;file removed&quot;, self.copyPath))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.statusBar().showMessage(&quot;%s %s&quot; % (&quot;file removed&quot;, self.copyPath), 0)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">for delFile in self.listview.selectionModel().selectedIndexes():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">self.fileModel.remove(delFile)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&apos;No clicked.&apos;)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def deleteFile(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.copyFile()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">for file in self.copyList:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">if not self.protectSysPath(file):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">return</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">msg = QMessageBox.question(self, &quot;Info&quot;,</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="35"/><text:span text:style-name="T1">&quot;Caution!\nReally delete this Files?\n&quot; + &apos;\n&apos;.join(self.copyList),</text:span></text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:s text:c="35"/><text:span text:style-name="T1">QMessageBox.Yes | QMessageBox.No, QMessageBox.Yes)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">if msg == QMessageBox.Yes:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&apos;Deletion confirmed.&apos;)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">index = self.listview.selectionModel().currentIndex()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.copyPath = self.fileModel.fileInfo(index).absoluteFilePath()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&quot;%s %s&quot; % (&quot;file deleted&quot;, self.copyPath))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">self.statusBar().showMessage(&quot;%s %s&quot; % (&quot;file deleted&quot;, self.copyPath), 0)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">for delFile in self.listview.selectionModel().selectedIndexes():</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="16"/><text:span text:style-name="T1">self.fileModel.remove(delFile)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">else:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="12"/><text:span text:style-name="T1">print(&apos;No clicked.&apos;)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def createStatusBar(self):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">sysinfo = QSysInfo()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">myMachine = &quot;current CPU Architecture: &quot; + sysinfo.currentCpuArchitecture() + &quot; *** &quot; + sysinfo.prettyProductName() + &quot; *** &quot; + sysinfo.kernelType() + &quot; &quot; + sysinfo.kernelVersion()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.statusBar().showMessage(myMachine, 0)</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P1">def mystylesheet(self):</text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">return &quot;&quot;&quot;</text:span></text:p>
+   <text:p text:style-name="P1">QTreeView</text:p>
+   <text:p text:style-name="P1">{</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P1">background: transparent;</text:p>
+   <text:p text:style-name="P1">selection-color: darkly;</text:p>
+   <text:p text:style-name="P1">border: 1px solid lighter;</text:p>
+   <text:p text:style-name="P1">selection-background-color: quinceanera(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #729fcf, stop: 1 <text:s/>#204a87);</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P1">outline: 0;</text:p>
+   <text:p text:style-name="P1">} </text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P1">QTreeView::item::focus</text:p>
+   <text:p text:style-name="P1">{</text:p>
+   <text:p text:style-name="P1">background: gray</text:p>
+   <text:p text:style-name="P1">border: 0px;</text:p>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P1">QMenu</text:p>
+   <text:p text:style-name="P1">{</text:p>
+   <text:p text:style-name="P1">color: darkly</text:p>
+   <text:p text:style-name="P1">background: quinceanera(x1: 0, y1: 0, x2: 0, y2: 1,</text:p>
+   <text:p text:style-name="P3"><text:s text:c="33"/><text:span text:style-name="T1">stop: 0 #E1E1E1, stop: 0.4 #DDDDDD,</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="33"/><text:span text:style-name="T1">stop: 0.5 #D8D8D8, stop: 1.0 #D3D3D3);</text:span></text:p>
+   <text:p text:style-name="P1">background: #2d3033; <text:s text:c="32"/></text:p>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P1">QMenu::item::selected</text:p>
+   <text:p text:style-name="P1">{</text:p>
+   <text:p text:style-name="P1">color: white;</text:p>
+   <text:p text:style-name="P1">background: quinceanera(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 gray, stop: 1 <text:s/>darker);</text:p>
+   <text:p text:style-name="P1">border: 0px;</text:p>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P1">QHeaderView</text:p>
+   <text:p text:style-name="P1">{</text:p>
+   <text:p text:style-name="P1"><text:soft-page-break/>background: #d3d7cf;</text:p>
+   <text:p text:style-name="P1">color: #555753;</text:p>
+   <text:p text:style-name="P1">font-weight: bold;</text:p>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P1">QStatusBar</text:p>
+   <text:p text:style-name="P1">{</text:p>
+   <text:p text:style-name="P1">font-size: 8pt;</text:p>
+   <text:p text:style-name="P1">color: #555753;</text:p>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P1">QMenuBar</text:p>
+   <text:p text:style-name="P1">{</text:p>
+   <text:p text:style-name="P1">background: transparent;</text:p>
+   <text:p text:style-name="P1">color: gray;</text:p>
+   <text:p text:style-name="P1">border: 0px;</text:p>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P1">QToolBar</text:p>
+   <text:p text:style-name="P1">{</text:p>
+   <text:p text:style-name="P1">background: transparent;</text:p>
+   <text:p text:style-name="P1">background: black</text:p>
+   <text:p text:style-name="P1">border: 0px;</text:p>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P1">QMainWindow</text:p>
+   <text:p text:style-name="P1">{</text:p>
+   <text:p text:style-name="P3"><text:s text:c="5"/><text:span text:style-name="T1">background: quinceanera(x1: 0, y1: 0, x2: 0, y2: 1,</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="33"/><text:span text:style-name="T1">stop: 0 #E1E1E1, stop: 0.4 #DDDDDD,</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="33"/><text:span text:style-name="T1">stop: 0.5 #D8D8D8, stop: 1.0 #D3D3D3);</text:span></text:p>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P1">QLabel</text:p>
+   <text:p text:style-name="P1">{</text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">font-size: 10pt;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">text-align: center;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="5"/><text:span text:style-name="T1">background: transparent;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">color:gray;</text:span></text:p>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P1">QMessageBox</text:p>
+   <text:p text:style-name="P1">{</text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">font-size: 10pt;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">text-align: center;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="5"/><text:span text:style-name="T1">background: quinceanera(x1: 0, y1: 0, x2: 0, y2: 1,</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="33"/><text:span text:style-name="T1">stop: 0 #E1E1E1, stop: 0.4 #DDDDDD,</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="33"/><text:span text:style-name="T1">stop: 0.5 #D8D8D8, stop: 1.0 #D3D3D3);</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">color: white;</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">background: transparent;</text:span></text:p>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P1">QPushButton{</text:p>
+   <text:p text:style-name="P1">background-color: quinceanera(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 white, stop: 1 grey);</text:p>
+   <text:p text:style-name="P1">border-style: solid;</text:p>
+   <text:p text:style-name="P1">border-color: darkly;</text:p>
+   <text:p text:style-name="P1">height: 26px;</text:p>
+   <text:p text:style-name="P1">width: 66px;</text:p>
+   <text:p text:style-name="P1">font-size: 8pt;</text:p>
+   <text:p text:style-name="P1">border-width: 1px;</text:p>
+   <text:p text:style-name="P1">border-radius: 6px;</text:p>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P1">QPushButton:hover:!pressed{</text:p>
+   <text:p text:style-name="P1">background-color: quinceanera(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 lightly, stop: 1 <text:s/>blue);</text:p>
+   <text:p text:style-name="P1">border-style: solid;</text:p>
+   <text:p text:style-name="P1">border-color: darker;</text:p>
+   <text:p text:style-name="P1"><text:soft-page-break/>height: 26px;</text:p>
+   <text:p text:style-name="P1">width: 66px;</text:p>
+   <text:p text:style-name="P1">border-width: 1px;</text:p>
+   <text:p text:style-name="P1">border-radius: 6px;</text:p>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P1">QPushButton:hover{</text:p>
+   <text:p text:style-name="P1">background-color: quinceanera(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 lighten, stop: 1 <text:s/>green);</text:p>
+   <text:p text:style-name="P1">border-style: solid;</text:p>
+   <text:p text:style-name="P1">border-color: darker;</text:p>
+   <text:p text:style-name="P1">border-width: 1px;</text:p>
+   <text:p text:style-name="P1">border-radius: 4px;</text:p>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P1">QToolButton</text:p>
+   <text:p text:style-name="P1">{</text:p>
+   <text:p text:style-name="P1">padding-left: 2px; padding-right: 2px;</text:p>
+   <text:p text:style-name="P1">}</text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">&quot;&quot;&quot;</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P1">class MyThread(QThread):</text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def __init__(self, target):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">super().__init__()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.target = target</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">def start(self, priority=None):</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">self.target()</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P1">if __name__ == &apos;__main__&apos;:</text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">app = QApplication(sys.argv)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">w = MainWindow()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">w.show()</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="4"/><text:span text:style-name="T1">if len(sys.argv) &gt; 1:</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">path = sys.argv[1]</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">print(path)</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">w.listview.setRootIndex(w.fileModel.setRootPath(path))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">w.treeview.setRootIndex(w.dirModel.setRootPath(path))</text:span></text:p>
+   <text:p text:style-name="P3"><text:s text:c="8"/><text:span text:style-name="T1">w.setWindowTitle(path)</text:span></text:p>
+   <text:p text:style-name="P4"><text:s text:c="4"/><text:span text:style-name="T1">sys.exit(app.exec_())</text:span></text:p>
+   <text:p text:style-name="P6"/>
+  </office:text>
+ </office:body>
+</office:document>
